@@ -6,6 +6,7 @@
     }
     section#log {
         width: 90vw;
+        height: 280px;
     }
     section#log > div#img {
         float: left;
@@ -24,6 +25,7 @@
     }
     section#log {
         width: 55em;
+        height: 300px;
     }
     section#log > div#img {
         float:  right;
@@ -36,6 +38,7 @@
     }
     div#form > p {
         font-size: 1.2em;
+        margin: 20px 0px;
     }
     div#form > h1 {
         font-size: 2em;
